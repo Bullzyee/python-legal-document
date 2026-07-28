@@ -1,1 +1,1 @@
-#This python code can be used if you want to create legal documents. The program will ask for information about the legal document; at the end of the program, an Overleaf LaTex code will be provided. Paste it to overleaf website, hit recompile and downlaod
+This python code can be used if you want to create legal documents. The program will ask for information about the legal document; at the end of the program, an Overleaf LaTex code will be provided. Paste it to overleaf website, hit recompile and downlaod
